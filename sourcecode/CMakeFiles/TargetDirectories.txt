@@ -1,0 +1,3 @@
+/home/emith828/Desktop/tdp005 emith828/tdp005v2/sourcecode/CMakeFiles/edit_cache.dir
+/home/emith828/Desktop/tdp005 emith828/tdp005v2/sourcecode/CMakeFiles/rebuild_cache.dir
+/home/emith828/Desktop/tdp005 emith828/tdp005v2/sourcecode/CMakeFiles/sfml.dir
