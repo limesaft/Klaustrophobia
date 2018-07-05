@@ -1,4 +1,6 @@
-To create make the game in Sourcefile map <br />
+A top down shootup game created in c++ and SFML.
+
+To create: make the game in Sourcefile map <br />
 
 cmake .  <br />
 make   <br />
